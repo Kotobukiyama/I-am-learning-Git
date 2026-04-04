@@ -1,0 +1,25 @@
+body
+{
+	background-color: #FFFFC5;
+}
+p
+{
+	font-size: 18;
+}
+
+.text
+{
+	align-self: flex-end;
+}
+
+.image
+{
+	width: 42px;
+	height: 42px;
+}
+
+.paragraph
+{
+	display: flex;
+}
+
